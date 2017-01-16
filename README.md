@@ -29,8 +29,7 @@ ex)
 }
 ```
 
-2. Prepare json files for i18n of mattermost }
-
+2. Prepare json files for i18n of mattermost 
 
 Prepare json and python files in the same location.
 
