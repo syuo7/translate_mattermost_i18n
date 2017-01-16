@@ -17,7 +17,7 @@ zh_CN=[]
 zh_TW=[]
 json_count=11
 
-in_text='translate_text.json'
+in_text='translate_text.json' # 변경이 될 타켓 시스템 리소스 문자열이 정의되어 있는 json파일이름
 output_i18n={'de':'de.json','en':'en.json','es':'es.json','fr':'fr.json','ja':'ja.json','ko':'ko.json','nl':'nl.json','pt_BR':'pt-BR.json','ru':'ru.json','zh_CN':'zh_CN.json','zh_TW':'zh_TW.json'}
 
 def text_define():
