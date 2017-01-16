@@ -5,7 +5,7 @@ This program to batch modify the translation file of mattermost's i18n file
 useage:
 
 
-1. Prepare a json file containing the mattermost target i18n variable to be changed.
+* Prepare a json file containing the mattermost target i18n variable to be changed.
 
 
 ex)
@@ -31,7 +31,7 @@ ex)
 }
 ```
 
-2. Prepare json files for i18n of mattermost 
+* Prepare json files for i18n of mattermost 
 
 Prepare json and python files in the same location.
 
