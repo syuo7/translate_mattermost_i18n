@@ -39,7 +39,7 @@ Prepare json and python files in the same location.
 ex) de.json, en.json, es.json, fr.json, ja.json, ko.json, nl.json, pt-BR.json, ru.json, zh_CN.json, zh_TW.json
 
 * Edit a line of function for output_translate on translate_i18n.py .
-* Required parameters are two - [locale].json and locale list
+ * Required parameters are two - [locale].json and list of locale
 ```python
 text_define()
 output_translate(output_i18n.get('ko'),ko) // translate for ko.json file 
